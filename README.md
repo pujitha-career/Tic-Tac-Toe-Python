@@ -53,7 +53,9 @@ A console-based Tic Tac Toe game built using Python. Play against the computer w
 
 ## 👩‍💻 Author
 
-**Pujitha Kurakula**
+Created by **Kurakula Pujitha**  
+Focused on Python Syntax, Thinking and Problem Solving.
+
 
 
 
